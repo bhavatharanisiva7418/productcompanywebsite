@@ -906,9 +906,6 @@ border:2px solid white;
 ![output](./signoutput.jpeg)
 ![output](./contactoutput.jpeg)
 
-### Home Page:
-
-![output](./images/homepage.jpg)
 
 ## Result:
 
